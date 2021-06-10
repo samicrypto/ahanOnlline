@@ -1,0 +1,13 @@
+module.exports.authService = require('./auth.service');
+module.exports.tokenService = require('./token.service');
+module.exports.userService =require('./user.service');
+module.exports.adminService =require('./admin.service');
+module.exports.smsService = require('./sms.service');
+module.exports.emailService = require('./email.service');
+module.exports.channelService = require('./channel.service');
+module.exports.albumService = require('./album.service');
+module.exports.episodeService = require('./episode.service');
+module.exports.uploadFileSevice = require('./uploadFile.service');
+module.exports.commentService = require('./comment.service');
+module.exports.publicService = require('./public.service');
+module.exports.categoryService = require('./category.service');

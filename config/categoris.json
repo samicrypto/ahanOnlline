@@ -1,0 +1,333 @@
+[
+
+{
+    "kurdishName":"پادکست",
+    "latinName":"podcast",
+    "slug":"podcast",
+    "category":"/podcast",
+    "parent":"/"
+},
+
+{
+    "kurdishName":"پڕتووکی دەنگی",
+    "latinName":"audioBook",
+    "slug":"audioBook",
+    "category":"/audioBook",
+    "parent":"/"
+},
+
+{
+    "kurdishName":"مۆسیقی",
+    "latinName":"music",
+    "slug":"music",
+    "category":"/music",
+    "parent":"/"
+},
+
+{
+    "kurdishName":"جۆراوجۆر",
+    "latinName":"other",
+    "slug":"other",
+    "category":"/other",
+    "parent":"/"
+},
+
+
+{
+    "kurdishName":"بەڕێوەبەری و کارسازی",
+    "latinName":"Management & Economics",
+    "slug":"podcast_management",
+    "category":"/podcast/management",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"دەروونناسی و کۆمەڵگا",
+    "latinName":"Psychology",
+    "slug":"podcast_psychology",
+    "category":"/podcast/psychology",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"فەلسەفی",
+    "latinName":"Philosophical",
+    "slug":"podcast_philosophical",
+    "category":"/podcast/philosophical",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"هۆنراوە و ئەدەب",
+    "latinName":"«Poetry & Literature",
+    "slug":"podcast_literature",
+    "category":"/podcast/literature",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"تەندروستی و شێوازی ژیان",
+    "latinName":"Health and lifestyle",
+    "slug":"podcast_health",
+    "category":"/podcast/health",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"مێژوو و هونەر ",
+    "latinName":"History",
+    "slug":"podcast_history",
+    "category":"/podcast/history",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"زانست و تەکنۆلۆجیا",
+    "latinName":"Science",
+    "slug":"podcast_science",
+    "category":"/podcast/science",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"کۆمیدی و خولیا",
+    "latinName":"Comedy",
+    "slug":"podcast_comedy",
+    "category":"/podcast/comedy",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"ئایینی",
+    "latinName":"Ritual",
+    "slug":"podcast_ritual",
+    "category":"/podcast/ritual",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"زمانه‌کانی بیانی",
+    "latinName":"Foreign Languages",
+    "slug":"podcast_foreign_languages",
+    "category":"/podcast/foreign_languages",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"وەرزش",
+    "latinName":"Sport",
+    "slug":"podcast_sport",
+    "category":"/podcast/sport",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"مندالان",
+    "latinName":"Child",
+    "slug":"podcast_child",
+    "category":"/podcast/child",
+    "parent":"/podcast"
+},
+{
+    "kurdishName":"مۆسیقا",
+    "latinName":"Music",
+    "slug":"podcast_music",
+    "category":"/podcast/music",
+    "parent":"/podcast"
+},
+
+
+{
+    "kurdishName":"چیرۆک",
+    "latinName":"Story",
+    "slug":"audioBook_story",
+    "category":"/audioBook/story",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"ڕۆمان",
+    "latinName":"Novel",
+    "slug":"audioBook_novel",
+    "category":"/audioBook/novel",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"هۆنراوە و شاعیران",
+    "latinName":"Poet",
+    "slug":"audioBook_poet",
+    "category":"/audioBook/poet",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"تەندروستی و شێوازی ژیان",
+    "latinName":"Health and lifestyle",
+    "slug":"audioBook_health",
+    "category":"/audioBook/health",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"ژیاننامە و یاداشت",
+    "latinName":"Biography",
+    "slug":"audioBook_biography",
+    "category":"/audioBook/biography",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"ئەدەب و کەلتوور و زمان‌ناسی",
+    "latinName":"Culture",
+    "slug":"audioBook_culture",
+    "category":"/audioBook/culture",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"مێژوو",
+    "latinName":"History",
+    "slug":"audioBook_history",
+    "category":"/audioBook/history",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"دەروونناسی و کۆمەڵناسی",
+    "latinName":"Psychology",
+    "slug":"audioBook_psychology",
+    "category":"/audioBook/psychology",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"فەلسەفی",
+    "latinName":"Philosophical",
+    "slug":"audioBook_philosophical",
+    "category":"/audioBook/philosophical",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"سیاسی",
+    "latinName":"Political",
+    "slug":"audioBook_political",
+    "category":"/audioBook/political",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"ئافرەتان",
+    "latinName":"Women",
+    "slug":"audioBook_women",
+    "category":"/audioBook/women",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"ئایینی",
+    "latinName":"Ritual",
+    "slug":"audioBook_ritual",
+    "category":"/audioBook/ritual",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"وتەی ناوداران",
+    "latinName":"Quote",
+    "slug":"audioBook_quote",
+    "category":"/audioBook/quote",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"مندالان",
+    "latinName":"Child",
+    "slug":"audioBook_child",
+    "category":"/audioBook/child",
+    "parent":"/audioBook"
+},
+{
+    "kurdishName":"زانستی",
+    "latinName":"Science",
+    "slug":"audioBook_science",
+    "category":"/audioBook/science",
+    "parent":"/audioBook"
+},
+
+{
+    "kurdishName":"جۆراوجۆر ",
+    "latinName":"Other",
+    "slug":"audioBook_other",
+    "category":"/audioBook/other",
+    "parent":"/audioBook"
+},
+
+
+{
+    "kurdishName":"مۆسیقی نەتەوەکان",
+    "latinName":"International Music",
+    "slug":"music_international_music",
+    "category":"/music/international_music",
+    "parent":"/music_"
+},
+
+{
+    "kurdishName":"مۆسیقی ناخی فیلم",
+    "latinName":"Movie Soundtrack",
+    "slug":"music_movie_sound_track",
+    "category":"/music/movie_sound_track",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"ڕاک",
+    "latinName":"Rock",
+    "slug":"music_rock",
+    "category":"/music/rock",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"کلاسیک",
+    "latinName":"Classic",
+    "slug":"music_classic",
+    "category":"/music/classic",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"ئێلێکترۆنیک",
+    "latinName":"Electronic",
+    "slug":"music_electronic",
+    "category":"/music/electronic",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"نێوایج",
+    "latinName":"Newage",
+    "slug":"music_newage",
+    "category":"/music/newage",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"پاپ",
+    "latinName":"Pop",
+    "slug":"music_pop",
+    "category":"/music/pop",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"مۆسیقی وەرزشی",
+    "latinName":"Sport Music",
+    "slug":"music_sport_music",
+    "category":"/music/sport_music",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"فولکلۆر",
+    "latinName":"Folclore",
+    "slug":"music_folclore",
+    "category":"/music/folclore",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"جەز و بلووز",
+    "latinName":"Jazz and Blues",
+    "slug":"music_jazz_and_blues",
+    "category":"/music/jazz_and_blues",
+    "parent":"/music"
+},
+
+{
+    "kurdishName":"نەریتی",
+    "latinName":"Traditional",
+    "slug":"music_traditional",
+    "category":"/music/traditional",
+    "parent":"/music"
+}
+
+
+]
