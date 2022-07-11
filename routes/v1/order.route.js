@@ -9,9 +9,8 @@ const router = express.Router();
 router
     .route('/')
         .get(auth('getOrder'), validate(orderValidation.getOrder), orderController.getOrders)
-        .post(auth('manageOrder'), validate(orderValidation.createOrder), orderController.createOrder);
-
-     .get(auth('getOrder'), orderController.getUserChannels);
+        .post(auth('manageOrder'), validate(orderValidation.createOrder), orderController.createOrder)
+        .get(auth('getOrder'), orderController.getUserChannels)
 
 router
     .route('/:orderId')
